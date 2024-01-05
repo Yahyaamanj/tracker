@@ -10,5 +10,5 @@
 
 ## Single Command :
 ```
-apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track-ip.git ; cd track-ip ; bash trackip
+apt update ; apt install git curl -y ; git clone git://github.com/Yahyaamanj/track-ip.git ; cd track-ip ; bash trackip
 ```
